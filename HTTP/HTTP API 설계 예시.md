@@ -1,4 +1,4 @@
-## HTTP API 설계 예시
+## HTTP API 설계 예시 
 
 - HTTP API - 컬렉션
     - POST 기반 등록
