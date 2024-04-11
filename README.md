@@ -14,6 +14,9 @@
 - [AOP](Spring/AOP.md)
 - [Spring Boot 프로젝트 구조](Spring/스프링부트%20프로젝트%20구조.md)
 
+## JPA
+- [Entity Manager](JPA/EntityManager.md)
+- [Persistence Context](JPA/PersistenceContext.md)
 
 ### JAVA
 - [Call by Value와 Call by Reference](Java/CallByValue와CallByReference.md)
