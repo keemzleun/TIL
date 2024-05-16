@@ -32,3 +32,4 @@
 - [Shell Programming](Linux/3.shell_programming.sh)
 - [Find Grep](Linux/4.find_grep.sh)
 - [Network Syntax](Linux/5.network_syntax.sh)
+- [권한](Linux/권한.md)
