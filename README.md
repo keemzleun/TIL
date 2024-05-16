@@ -25,3 +25,10 @@
 
 ### Design Pattern
 - [싱글톤 패턴](DesignPattern/싱글톤패턴.md)
+
+### Linux
+- [Basic Syntax](Linux/1.basic_syntax.sh)
+- [User Management](Linux/2.user_management.sh)
+- [Shell Programming](Linux/3.shell_programming.sh)
+- [Find Grep](Linux/4.find_grep.sh)
+- [Network Syntax](Linux/5.network_syntax.sh)
